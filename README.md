@@ -11,5 +11,4 @@
 * npm install <pkgName> -> installs a pkg locally
 * npm install <pkgName> -g -> installs a pkg globally
 * npm uninstall <pkgName> [-g] -> self explanatory
-* to use a module in a script insert this at the top ->
-    var <moduleName> = require('<moduleName');
+* to use a module in a script insert this at the top -> var <moduleName> = require('<moduleName');
